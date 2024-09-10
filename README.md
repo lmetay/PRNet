@@ -12,5 +12,6 @@ Pytorch implementation of PRNet
 
 # Requirements
 Python 3.8
-Pytorch 1.5.1
-torchvision
+Pytorch 1.9.1
+Numpy 1.22.2
+
